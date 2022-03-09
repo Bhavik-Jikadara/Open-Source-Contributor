@@ -5,3 +5,4 @@ Maintainer - [@BhavikJikadara](https://github.com/Bhavik-Jikadara/)
 # List of Contributors
 
 - [Bhavik Jikadara](https://github.com/Bhavik-Jikadara/)
+- [Miten patel](https://github.com/mitenkumar/)
